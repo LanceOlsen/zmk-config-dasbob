@@ -13,7 +13,7 @@
 #
 ---
 include:
-  - board: pro_micro
+  - board: sparkfun_pro_micro_rp2040
     shield: dasbob_left
-  - board: pro_micro
+  - board: sparkfun_pro_micro_rp2040
     shield: dasbob_right
